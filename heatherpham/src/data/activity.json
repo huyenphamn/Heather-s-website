@@ -1,6 +1,6 @@
 [
     {
-      "role": "AI4ALL Participant",
+      "role": "Participant",
       "organisation": "AI4ALL",
       "startDate": "Sept, 2022",
       "endDate": "April, 2023",
@@ -8,7 +8,7 @@
       "imageSrc": "activity/ai4all.png"
     },
     {
-        "role": "HeaadStarter AI SWE Fellow",
+        "role": "SWE Fellow",
         "organisation": "HeadStarter AI",
         "startDate": "July, 2024",
         "endDate": "Present",
@@ -16,7 +16,7 @@
         "imageSrc": "activity/headstarterai.png"
       },
     {
-        "role": "CodePath student",
+        "role": "Student",
         "organisation": "CodePath",
         "startDate": "2024",
         "endDate": "Present",
@@ -24,7 +24,7 @@
         "imageSrc": "activity/CodePath.png"
       },
     {
-      "role": "GwC College Loop Member",
+      "role": "College Loop Member",
       "organisation": "Girls Who Code",
       "startDate": "2022",
       "endDate": "Present",
@@ -32,7 +32,7 @@
       "imageSrc": "activity/gwc.png"
     },
     {
-      "role": "Rewritting the Code Member",
+      "role": "Member",
       "organisation": "Rewriting the Code",
       "startDate": "2024",
       "endDate": "Present",
@@ -41,7 +41,7 @@
     },
 
     {
-        "role": "Society of Women Engineers Member",
+        "role": "Member",
         "organisation": "Society of Women Engineers",
         "startDate": "2024",
         "endDate": "Present",
@@ -49,7 +49,7 @@
         "imageSrc": "activity/swe.png"
       },
       {
-        "role": "Women in Cybersecurity Member",
+        "role": "Member",
         "organisation": "Women in Cybersecurity",
         "startDate": "2024",
         "endDate": "Present",
@@ -57,7 +57,7 @@
         "imageSrc": "activity/wicys.png"
       },
       {
-        "role": "AnitaB.org Member",
+        "role": "Member",
         "organisation": "AnitaB.org",
         "startDate": "2024",
         "endDate": "Present",
