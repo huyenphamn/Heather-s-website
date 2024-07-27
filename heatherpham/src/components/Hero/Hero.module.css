@@ -94,10 +94,18 @@
     min-width: 350px;
     min-height: 350px;
     top: -128px;
-    left: 10vw;
+    left: -10vw;
     border: 764px;
     background: rgba(248, 177, 149);
     filter: blur(100px);
     z-index: 0;
 
+}
+@media screen and (max-width:830px){
+    .container{
+        flex-direction: column-reverse;
+    }
+    .content{
+        align-items: center;
+    }
 }
