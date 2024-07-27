@@ -1,0 +1,34 @@
+[
+    {
+      "title": "AI4ALL",
+      "imageSrc": "activity/ai4all.png"
+    },
+    {
+        "title": "Headstarter AI",
+        "imageSrc": "activity/headstarterai.png"
+      },
+    {
+      "title": "CodePath",
+      "imageSrc": "activity/CodePath.png"
+    },
+    {
+      "title": "GwC",
+      "imageSrc": "activity/gwc.png"
+    },
+    {
+      "title": "RtC",
+      "imageSrc": "activity/RtC.png"
+    },
+    {
+      "title": "SWE",
+      "imageSrc": "activity/swe.png"
+    },
+    {
+      "title": "WiCYS",
+      "imageSrc": "activity/wicys.png"
+    },
+    {
+      "title": "AnitaB.org",
+      "imageSrc": "activity/AnitaB.png"
+    }
+  ]

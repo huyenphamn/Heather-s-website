@@ -1,0 +1,67 @@
+[
+    {
+      "role": "AI4ALL Participant",
+      "organisation": "AI4ALL",
+      "startDate": "Sept, 2022",
+      "endDate": "April, 2023",
+      "experiences": ["I participated in the Discover AI program and Apply AI program hosted by AI4ALL where I collaborated with peers on machine learning project and presented to professionals. More detail about what I did can be found under my projects."],
+      "imageSrc": "activity/ai4all.png"
+    },
+    {
+        "role": "HeaadStarter AI SWE Fellow",
+        "organisation": "HeadStarter AI",
+        "startDate": "July, 2024",
+        "endDate": "Present",
+        "experiences": ["I'm a SWE Fellow at Headstarter AI where I will build 5 AI projects in 5 week and work on my final project as SWE intern for startup companies."],
+        "imageSrc": "activity/headstarterai.png"
+      },
+    {
+        "role": "CodePath student",
+        "organisation": "CodePath",
+        "startDate": "2024",
+        "endDate": "Present",
+        "experiences": ["I'm a CodePath student, currently taking TIP102: Intermediate Interview Prep Course."],
+        "imageSrc": "activity/CodePath.png"
+      },
+    {
+      "role": "GwC College Loop Member",
+      "organisation": "Girls Who Code",
+      "startDate": "2022",
+      "endDate": "Present",
+      "experiences": ["I'm participating in the College Loop program, supporting aspiring women engineer."],
+      "imageSrc": "activity/gwc.png"
+    },
+    {
+      "role": "Rewritting the Code Member",
+      "organisation": "Rewriting the Code",
+      "startDate": "2024",
+      "endDate": "Present",
+      "experiences": ["I'm an active member at Rewriting the Code."],
+      "imageSrc": "activity/RtC.png"
+    },
+
+    {
+        "role": "Society of Women Engineers Member",
+        "organisation": "Society of Women Engineers",
+        "startDate": "2024",
+        "endDate": "Present",
+        "experiences": ["I'm an active member at Society of Women Engineers."],
+        "imageSrc": "activity/swe.png"
+      },
+      {
+        "role": "Women in Cybersecurity Member",
+        "organisation": "Women in Cybersecurity",
+        "startDate": "2024",
+        "endDate": "Present",
+        "experiences": ["I'm an active member at Women in Cybersecurity."],
+        "imageSrc": "activity/wicys.png"
+      },
+      {
+        "role": "AnitaB.org Member",
+        "organisation": "AnitaB.org",
+        "startDate": "2024",
+        "endDate": "Present",
+        "experiences": ["I'm an active member at AnitaB.org granted by the Advance Inclusion Scholarship."],
+        "imageSrc": "activity/AnitaB.png"
+      }
+  ]
