@@ -7,11 +7,12 @@ export const Activity = () => {
     return (<section id="activity" className={styles.container}>
         <h2 className={styles.title}>Activity</h2>
         <div className={styles.content}>
-            <ul>
+            <ul className={styles.activity}>
                 {
                     activity.map((activity, id) => {
-                        return <li key={id}>
-                            <div><img src={getImageUrl(activity.imageSrc)} alt={`${activity.organisation} Logo`}/>
+                        return(<li key={id} className={styles.activityItem}>
+                            <img src={getImageUrl(activity.imageSrc)} alt={`${activity.organisation} Logo`} className={styles.imageContainer}/>
+                            <div className={styles.activityItemDetail}>
                                 <h3>{`${activity.role}, ${activity.organisation}`}</h3>
                                 <p>
                                 {`${activity.startDate} - ${activity.endDate}`}
@@ -19,12 +20,12 @@ export const Activity = () => {
                                 <ul>
                                 {
                     activity.experiences.map((experience, id) => {
-                        return <li key={id}>{experience}</li>})
+                        return(<li key={id}>{experience}</li>)})
                             }
                                 </ul>
                             </div>
                         </li>
-                    })
+                    )})
                 }
             </ul>
         </div>
