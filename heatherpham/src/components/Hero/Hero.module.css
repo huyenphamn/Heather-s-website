@@ -34,6 +34,10 @@
     font-size: 30px;
     font-family: var(--font-robot);
     margin-bottom: 52px;
+    background: linear-gradient(90deg, rgba(255,255,255,1) 70%, rgba(255,255,255,0) 120%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+
 }
 
 .contactBtn{
@@ -45,6 +49,10 @@
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    animation-name: bounce;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
 }
 
 .avtImg{
@@ -56,6 +64,17 @@
     animation-timing-function: ease-in-out;
 }
 
+@keyframes bounce{
+    0%{
+        transform: translate(0, 0px);
+    }
+    50%{
+        transform: translate(0, 5px);
+    }
+    1000%{
+        transform: translate(0, -0px);
+    }
+}
 @keyframes floating{
     0%{
         transform: translate(0, 0px);
@@ -64,6 +83,21 @@
         transform: translate(0, 10px);
     }
     1000%{
-        transform: translate(0, -10px);
+        transform: translate(0, -0px);
     }
+}
+
+.topBlur{
+    position: absolute;
+    width: 50vw;
+    height: 50vw;
+    min-width: 350px;
+    min-height: 350px;
+    top: -128px;
+    left: 10vw;
+    border: 764px;
+    background: rgba(248, 177, 149);
+    filter: blur(100px);
+    z-index: 0;
+
 }

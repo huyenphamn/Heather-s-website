@@ -13,6 +13,5 @@ export const Hero = () => {
         </div>
         <img src={getImageUrl("avt/avatar.png")} alt="My avatar" className={styles.avtImg}/>
         <div className={styles.topBlur}/>
-        <div className={styles.botBlur}/>
     </section>);
 };
